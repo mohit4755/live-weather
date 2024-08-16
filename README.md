@@ -14,8 +14,9 @@ This is a simple weather forecast application that allows users to check the cur
 
 1. Clone the repository:
     https://github.com/mohit4755/live-weather
+    http://127.0.0.1:5500/
 
-2. Open the `index.html` file in your browser to run the application.
+3. Open the `index.html` file in your browser to run the application.
 
 ## Usage
 
