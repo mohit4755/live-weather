@@ -13,10 +13,7 @@ This is a simple weather forecast application that allows users to check the cur
 ## Installation
 
 1. Clone the repository:
-    ```bash
-    https://github.com/mohit4755/live-weather/edit/main/README.md
-    cd weather-app
-    ```
+    https://github.com/mohit4755/live-weather
 
 2. Open the `index.html` file in your browser to run the application.
 
